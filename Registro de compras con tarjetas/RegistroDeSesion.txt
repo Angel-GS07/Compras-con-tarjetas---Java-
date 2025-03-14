@@ -1,0 +1,25 @@
+---------------------------------------- Inicio de sesion ----------------------------------------- 
+
+Estado inicial de las cuentas: 
+
+Tarjeta de Credito 	Numero de cuenta: 1001	   Limite de credito: $12500.0	   Saldo: $12500.0
+Tarjeta de Credito 	Numero de cuenta: 1002	   Limite de credito: $10000.0	   Saldo: $10000.0
+Tarjeta de Credito 	Numero de cuenta: 1003	   Limite de credito: $7500.0	   Saldo: $7500.0
+Tarjeta de Credito 	Numero de cuenta: 1004	   Limite de credito: $5000.0	   Saldo: $5000.0
+Tarjeta de Credito 	Numero de cuenta: 1005	   Limite de credito: $2500.0	   Saldo: $2500.0
+Tarjeta de Debito 	Numero de cuenta: 2001	   Saldo: $10000.0
+Tarjeta de Debito 	Numero de cuenta: 2002	   Saldo: $8000.0
+Tarjeta de Debito 	Numero de cuenta: 2003	   Saldo: $6000.0
+Tarjeta de Debito 	Numero de cuenta: 2004	   Saldo: $4000.0
+Tarjeta de Debito 	Numero de cuenta: 2005	   Saldo: $2000.0
+
+-------------------------------------- Movimientos realizados -------------------------------------- 
+
+Cuenta: 2005	Monto de la compra: $500.0	  Saldo: $1500.0
+Cuenta: 2005	Monto de la compra: $100.0	  Saldo: $1400.0
+Cuenta: 2006	Cuenta inexistente
+Cuenta: 1004	Monto de la compra: $500.0	  Limite de credito: $5000.0	  Credito disponible: $4500.0
+Cuenta: 8000	Cuenta inexistente
+Cuenta: 1002	El cargo no se pudo realizar	Monto de la compra: $85500.0	  Limite de credito: $10000.0	  Credito disponible: $10000.0
+
+------------------------------------------ Fin de sesion ------------------------------------------- 
